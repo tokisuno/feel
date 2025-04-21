@@ -1,0 +1,490 @@
+{
+  "children": [
+    {
+      "name": "Afraid",
+      "children": [
+        {
+          "name": "Scared",
+          "children": [
+            {
+              "name": "Helpless"
+            },
+            {
+              "name": "Fearful"
+            }
+          ]
+        },
+        {
+          "name": "Anxious",
+          "children": [
+            {
+              "name": "Overwhelm"
+            },
+            {
+              "name": "Worry"
+            }
+          ]
+        },
+        {
+          "name": "Insecure",
+          "children": [
+            {
+              "name": "Small"
+            },
+            {
+              "name": "Inferior"
+            }
+          ]
+        },
+        {
+          "name": "Weak",
+          "children": [
+            {
+              "name": "Hollow"
+            },
+            {
+              "name": "Empty"
+            }
+          ]
+        },
+        {
+          "name": "Shaky",
+          "children": [
+            {
+              "name": "Trembling"
+            },
+            {
+              "name": "Unstable"
+            }
+          ]
+        },
+        {
+          "name": "Nervous",
+          "children": [
+            {
+              "name": "Tight"
+            },
+            {
+              "name": "Vulnerable"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Angry",
+      "children": [
+        {
+          "name": "Mistrust",
+          "children": [
+            {
+              "name": "Exhaustion"
+            },
+            {
+              "name": "Resentment"
+            }
+          ]
+        },
+        {
+          "name": "Shame",
+          "children": [
+            {
+              "name": "Humiliation"
+            },
+            {
+              "name": "Embarrassment"
+            }
+          ]
+        },
+        {
+          "name": "Jealous",
+          "children": [
+            {
+              "name": "Indignant"
+            },
+            {
+              "name": "Bitter"
+            }
+          ]
+        },
+        {
+          "name": "Mad",
+          "children": [
+            {
+              "name": "Furious"
+            },
+            {
+              "name": "Rage"
+            }
+          ]
+        },
+        {
+          "name": "Irritation",
+          "children": [
+            {
+              "name": "Aggressive"
+            },
+            {
+              "name": "Hostile"
+            }
+          ]
+        },
+        {
+          "name": "Frustration",
+          "children": [
+            {
+              "name": "Tense"
+            },
+            {
+              "name": "Annoyance"
+            }
+          ]
+        },
+        {
+          "name": "Distant",
+          "children": [
+            {
+              "name": "Withdrawn"
+            },
+            {
+              "name": "Numb"
+            }
+          ]
+        },
+        {
+          "name": "Critical",
+          "children": [
+            {
+              "name": "Skeptical"
+            },
+            {
+              "name": "Dismissive"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Disgust",
+      "children": [
+        {
+          "name": "Disapproval",
+          "children": [
+            {
+              "name": "Judgment"
+            },
+            {
+              "name": "Shock"
+            }
+          ]
+        },
+        {
+          "name": "Disdain",
+          "children": [
+            {
+              "name": "Revulsion"
+            },
+            {
+              "name": "Yucky"
+            }
+          ]
+        },
+        {
+          "name": "Sick",
+          "children": [
+            {
+              "name": "Nausea"
+            },
+            {
+              "name": "Awful"
+            }
+          ]
+        },
+        {
+          "name": "Repulsion",
+          "children": [
+            {
+              "name": "Horror"
+            },
+            {
+              "name": "Hesitance"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sad",
+      "children": [
+        {
+          "name": "Hurt",
+          "children": [
+            {
+              "name": "Pain"
+            },
+            {
+              "name": "Disappointment"
+            }
+          ]
+        },
+        {
+          "name": "Depression",
+          "children": [
+            {
+              "name": "Heavy"
+            },
+            {
+              "name": "Weight"
+            }
+          ]
+        },
+        {
+          "name": "Guilty",
+          "children": [
+            {
+              "name": "Remorseful"
+            },
+            {
+              "name": "Shame"
+            }
+          ]
+        },
+        {
+          "name": "Despair",
+          "children": [
+            {
+              "name": "Powerless"
+            },
+            {
+              "name": "Grief"
+            }
+          ]
+        },
+        {
+          "name": "Vulnerable",
+          "children": [
+            {
+              "name": "Fragile"
+            },
+            {
+              "name": "Shaky"
+            }
+          ]
+        },
+        {
+          "name": "Lonely",
+          "children": [
+            {
+              "name": "Longing"
+            },
+            {
+              "name": "Achy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Happy",
+      "children": [
+        {
+          "name": "Hope",
+          "children": [
+            {
+              "name": "Inspiration"
+            },
+            {
+              "name": "Openness"
+            }
+          ]
+        },
+        {
+          "name": "Trust",
+          "children": [
+            {
+              "name": "Safety"
+            },
+            {
+              "name": "Tenderness"
+            }
+          ]
+        },
+        {
+          "name": "Care",
+          "children": [
+            {
+              "name": "Gratitude"
+            },
+            {
+              "name": "Peaceful"
+            }
+          ]
+        },
+        {
+          "name": "Powerful",
+          "children": [
+            {
+              "name": "Creative"
+            },
+            {
+              "name": "Courageous"
+            }
+          ]
+        },
+        {
+          "name": "Acceptance",
+          "children": [
+            {
+              "name": "Importance"
+            },
+            {
+              "name": "Respect"
+            }
+          ]
+        },
+        {
+          "name": "Proud",
+          "children": [
+            {
+              "name": "Confident"
+            },
+            {
+              "name": "Strong"
+            }
+          ]
+        },
+        {
+          "name": "Curiosity",
+          "children": [
+            {
+              "name": "Willingness"
+            },
+            {
+              "name": "Interest"
+            }
+          ]
+        },
+        {
+          "name": "Content",
+          "children": [
+            {
+              "name": "Joy"
+            },
+            {
+              "name": "Free"
+            }
+          ]
+        },
+        {
+          "name": "Playful",
+          "children": [
+            {
+              "name": "Mischevious"
+            },
+            {
+              "name": "Arousal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Surprise",
+      "children": [
+        {
+          "name": "Excitement",
+          "children": [
+            {
+              "name": "Energetic"
+            },
+            {
+              "name": "Eager"
+            }
+          ]
+        },
+        {
+          "name": "Amazement",
+          "children": [
+            {
+              "name": "Awe"
+            },
+            {
+              "name": "Astonishment"
+            }
+          ]
+        },
+        {
+          "name": "Confusion",
+          "children": [
+            {
+              "name": "Dizzy"
+            },
+            {
+              "name": "Unclear"
+            }
+          ]
+        },
+        {
+          "name": "Shock",
+          "children": [
+            {
+              "name": "Dismay"
+            },
+            {
+              "name": "Uncomfortable"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bad",
+      "children": [
+        {
+          "name": "Tired",
+          "children": [
+            {
+              "name": "Blurry"
+            },
+            {
+              "name": "Sleepy"
+            }
+          ]
+        },
+        {
+          "name": "Stress",
+          "children": [
+            {
+              "name": "Out of control"
+            },
+            {
+              "name": "Overwhelm"
+            }
+          ]
+        },
+        {
+          "name": "Busy",
+          "children": [
+            {
+              "name": "Pressure"
+            },
+            {
+              "name": "Buzzy"
+            }
+          ]
+        },
+        {
+          "name": "Boredom",
+          "children": [
+            {
+              "name": "Apathy"
+            },
+            {
+              "name": "Absent"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
